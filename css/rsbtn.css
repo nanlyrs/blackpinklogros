@@ -1,0 +1,13 @@
+.regresar{
+    padding: 15px 25px;
+    border: 1px solid #5f1919;
+    border-radius: 25px;
+    font-size: 17px;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.regresar:hover{
+    background-color: #5f1919;
+}
